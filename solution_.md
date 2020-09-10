@@ -5,4 +5,4 @@
 Figure
 ------
 
-![](figures/img.png)
+![](fig.png)
